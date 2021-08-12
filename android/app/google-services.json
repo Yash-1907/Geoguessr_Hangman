@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1027945019177",
+    "project_id": "geoguessrhangman",
+    "storage_bucket": "geoguessrhangman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027945019177:android:12f39cbe11dad71964e938",
+        "android_client_info": {
+          "package_name": "com.example.geoguessr_hangman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027945019177-cohjqa4o7qq24v4bvmkl6fcdshi3c0e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geoguessr_hangman",
+            "certificate_hash": "1890a655c752f292f968b454ec6a41cc372e7222"
+          }
+        },
+        {
+          "client_id": "1027945019177-ig6ni8j7odc31tsi4s8b3pfkvboijeqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQCjwZ9Lnvg1V2q4UbnaEvkgZNlGwdasM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027945019177-ig6ni8j7odc31tsi4s8b3pfkvboijeqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
